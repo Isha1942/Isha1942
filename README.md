@@ -15,7 +15,6 @@ I'm a Computer Science Engineering student passionate about building intuitive A
 
 **Other Technical Skills**
 - Problem Solving & Mathematics
-- DevOps Fundamentals
 - Web UI/UX Design with ChatGPT
 
 ---

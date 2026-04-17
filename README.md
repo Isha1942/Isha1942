@@ -62,14 +62,6 @@ D.Y. Patil Agricultural and Technical University, Talsande
 ✅ **Tech-Symposium 2K24 - I 4 AI** (March 16, 2024)  
 *Participated in National Level Technical Event*
 
----
-
-## 🌱 Currently Learning
-
-- Advanced Android Architecture (MVVM, Clean Architecture)
-- Cloud Firestore Best Practices
-- DevOps & CI/CD Pipelines
-- Cyber Security Fundamentals
 
 ---
 

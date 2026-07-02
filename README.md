@@ -68,7 +68,6 @@ D.Y. Patil Agricultural and Technical University, Talsande
 ## 📫 Get in Touch
 
 - **Email:** idkorbu@gmail.com
-- **Phone:** +91 99754 69309
 - **LinkedIn:** https://www.linkedin.com/in/ishwari-korbu-777940300
 - **Location:** Shirdhon, Kolhapur, Maharashtra, India
 

@@ -43,8 +43,7 @@ I'm a Computer Science Engineering student passionate about building intuitive A
 ## 🎓 Education
 
 **Bachelor of Technology in Computer Science Engineering**  
-D.Y. Patil Agricultural and Technical University, Talsande  
-* 2026 | CGPA: 8.2/10*
+D.Y. Patil Agricultural and Technical University, Talsande (2026) - CGPA: 8.2/10
 
 **Higher Secondary Certificate (HSC)** - DKTE College, Ichalkaranji (2022) - 82.50%  
 **Secondary School Certificate (SSC)** - Ramjansheth Bandar Vidyalay (2020) - 91.60%

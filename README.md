@@ -2,7 +2,7 @@
 
 **Android Developer | Firebase & Database Enthusiast | UI/UX Focused**
 
-Final-year Computer Science Engineering student with 11 months of hands-on Android development experience through a real-world internship. Passionate about building intuitive Android applications with Java and Firebase, and currently expanding into Data Science, DevOps, and Cyber Security. Always eager to learn and collaborate on exciting projects!
+Final-year Computer Science Engineering student with 11 months of hands-on Android development experience through a real-world internship. Passionate about building intuitive Android applications with Java and Firebase. Currently learning **Data Science with AI** at IT Roots Pvt. Ltd., Pune — MySQL module completed, with Python, Statistics & Probability, Machine Learning, Data Visualization, and Generative AI coming up next. Always eager to learn and collaborate on exciting projects!
 
 ---
 

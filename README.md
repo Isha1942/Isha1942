@@ -1,113 +1,111 @@
-<div align="center">
-
 # Hi, I'm Ishwari Korbu 👋
 
-### Android Developer | Learning Data Science
+### Data Science & Data Analytics | Python · SQL · Machine Learning · LLMs
 
-I'm a Computer Science Engineering graduate with 11 months of hands-on experience
-building Android apps during my internship. I like working with **Java** and
-**Firebase**, and right now I'm learning **Data Science and AI** to grow my skills further.
+I'm a Computer Science Engineering graduate (B.Tech, CGPA 8.2) who just completed a 6-month Data Science program. I like turning raw data into answers, and I build small ML projects to practise what I learn. Before this, I worked for 11 months as an Android Developer intern, so I also know how real apps are built and shipped.
+
+**I'm looking for:** Data Analyst · Data Scientist · Junior ML / AI roles (internship or full-time)
 
 [![Email](https://img.shields.io/badge/Email-idkorbu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:idkorbu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishwari%20Korbu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwari-korbu-777940300)
-[![GitHub](https://img.shields.io/badge/GitHub-Isha1942-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Isha1942)
-
-</div>
-
----
-
-## 💼 Experience
-
-**Android Developer Intern** — *Infoyashonad Technology Pvt. Ltd., Sangli*
-`Aug 2025 – Jun 2026 · 11 months`
-
-- Built and maintained Android apps using Java, Firebase, and XML for real client projects
-- Made the **Jayant Patil App** — an app with news, biography, and MLA work updates, connected to Firebase for live data
-- Worked on the app's UI and an Admin Panel to manage content
-- Learned the full process of Android development — from design to coding, testing, and release
 
 ---
 
 ## 🛠️ Skills
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Mobile Development**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005F9E?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room%20Database-4285F4?style=flat-square)
-
-- Firebase (Firestore, Realtime Database, Storage)
-- Room Database
-- Basic UI/UX design
-
-</td>
-<td valign="top" width="50%">
-
-**Currently Learning**
+**Data & Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-- Statistics & Probability
-- Machine Learning
-- Data Visualization
-- Generative AI
+**Machine Learning & AI**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20Generative%20AI-8A2BE2?style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistics-555555?style=flat-square)
 
-</td>
-</tr>
-</table>
+**Visualization & Tools**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+- **SQL:** joins, subqueries, views, indexes, window functions, stored procedures, normalization
+- **Python:** data cleaning and analysis, building and testing ML models
+- **ML:** regression, classification, Random Forest, XGBoost, model evaluation
+- **LLMs / Generative AI:** prompt writing and using LLMs inside small apps
+- **Also:** Java, Android, Firebase (from my internship)
+- **Learning next:** Power BI and advanced Excel
 
 ---
 
-## 🚀 Projects
+## 🚀 Data Projects
 
-### 📱 Jayant Patil App
-**Android · Java, Firebase** &nbsp;|&nbsp; 2 months &nbsp;|&nbsp; Team of 2
+### 📊 Student Performance Prediction
+**Python · scikit-learn · Random Forest**
+Predicts student scores and pass/fail using the UCI dataset.
+- Regression: **R² = 0.824**
+- Classification: **87.3% accuracy**
+- 🔗 [View project](YOUR-REPO-LINK)
 
-An app that shares news, biography, and daily work updates for MLA Jayant Patil.
+### 📉 Customer Churn Prediction
+**Python · XGBoost · pandas**
+Finds which customers are likely to leave, so a business can act early.
+- Built and compared models on customer data
+- <!-- ADD: best accuracy / recall / F1 you got -->
+- 🔗 [View project](YOUR-REPO-LINK)
 
-- Content updates in real time using Firebase
-- A separate Admin Panel so non-technical people can manage content easily
-- Used as a real, live app to keep people informed
+### 🏥 Hospital Management System (SQL)
+**MySQL**
+Designed the full database from scratch: tables, relationships, and queries for patients, doctors, and appointments.
+- Used joins, subqueries, views, and window functions
+- 🔗 [View project](YOUR-REPO-LINK)
 
-### 🛍️ Nipun Herbalife App
-**Android · Java, Firebase Storage, Cloud Firestore** &nbsp;|&nbsp; 2 months &nbsp;|&nbsp; Team of 2
+### 🛒 Sales Analysis
+**Python · pandas · Matplotlib**
+Analysed sales data to find best months, top products, and city-wise sales.
+- Followed a Keith Galli tutorial as a base, then fixed pandas v2 errors and adjusted the code myself
+- 🔗 [View project](YOUR-REPO-LINK)
 
-An e-commerce Android app for homemade Herbalife products.
+### 🎨 Doodle Muse: Sketch to Story
+**Python · Flask · AI** (built for the IBM SkillsBuild AI Builders Challenge)
+A web app that turns a sketch into a short story.
+- 🔗 [View project](https://github.com/Isha1942/doodle-muse)
 
-- Used Firebase Storage and Firestore to manage products and orders
-- Built a separate Admin App to manage products, categories, and promo sliders
-- Helped a small home-based business move from offline to online selling
+### 🛡️ AI-Enhanced Intrusion Detection System
+**Python · Flask · Random Forest**
+A web app that uses a trained Random Forest model to spot suspicious network activity.
+- 🔗 [View project](https://github.com/Isha1942/Ai-enhanced-intrusion-detection-system)
 
-### 🔔 My HMSE App
-**Android · Java, Room Database** &nbsp;|&nbsp; 1 month &nbsp;|&nbsp; Individual Project
+---
 
-An app to control and monitor SMS-based (GSM) alarm systems — arm/disarm, manage zones, and set entry/exit timers.
+## 💼 Experience
 
-- Built with Java and Room Database for local, offline-friendly storage
-- Designed and built completely on my own in one month
+**Android Developer Intern** — *Infoyashonad Technology Pvt. Ltd., Sangli* · `Aug 2025 – Jun 2026`
+- Built Android apps with Java, Firebase, and XML for real client projects
+- Made the **Jayant Patil App** (news and updates, live data from Firebase) and an Admin Panel to manage content
+- Worked through the full process: design, coding, testing, and release
+
+*Android projects: Jayant Patil App · Nipun Herbalife App (e-commerce) · My HMSE App (GSM alarm control)*
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
+| Degree                               | Institution                                                | Year             | Score       |
+| ------------------------------------ | ---------------------------------------------------------- | ---------------- | ----------- |
 | B.Tech, Computer Science Engineering | D.Y. Patil Agricultural and Technical University, Talsande | 2026 (Completed) | CGPA 8.2/10 |
-| Higher Secondary Certificate (HSC) | DKTE College, Ichalkaranji | 2022 | 82.50% |
-| Secondary School Certificate (SSC) | Ramjansheth Bandar Vidyalay, Shirdhon | 2020 | 91.60% |
+| Higher Secondary Certificate (HSC)   | DKTE College, Ichalkaranji                                 | 2022             | 82.50%      |
+| Secondary School Certificate (SSC)   | Ramjansheth Bandar Vidyalay, Shirdhon                      | 2020             | 91.60%      |
 
 ---
 
 ## 📜 Certifications & Achievements
 
-- ✅ **Data Science Course** *(in progress)* — IT Roots Pvt. Ltd., Pune — *Jun 2026 – Dec 2026*
-  Completed: MySQL · Upcoming: Python, Statistics & Probability, Machine Learning, Data Visualization, Generative AI
+- ✅ **Data Science Program** — IT Roots Pvt. Ltd., Pune — *Jun 2026 – Dec 2026* · SQL, Python, Statistics & Probability, Machine Learning, Data Visualization, Generative AI
+- ✅ **Applied Data Science Credit Course** — SmartBridge / Google for Developers (Swayam Plus) — *2026*
+- ✅ **AI Builders Challenge** — IBM SkillsBuild / BeMyApp — *Jul – Sep 2026*
 - ✅ **Experiential Learning – Full Semester Program** — Score: 95/100 · Certificate Code: `FSP/2025/03/5712509` — *March 2025*
 - ✅ **Website UI/UX Designing using ChatGPT** — Certificate Code: `8119762` — *March 2025*
 - ✅ **Tech-Symposium 2K24 – I 4 AI** — National Level Technical Event — *March 16, 2024*
@@ -116,21 +114,9 @@ An app to control and monitor SMS-based (GSM) alarm systems — arm/disarm, mana
 
 ## 📫 Let's Connect
 
-<div align="center">
+I'm open to data analyst and data science roles, and happy to talk about my projects.
 
-I enjoy working on Android projects and I'm always open to learning something new.
-Feel free to check out my repositories, and reach out if you'd like to connect or collaborate!
+📍 Maharashtra, India
 
 [![Email](https://img.shields.io/badge/Email-idkorbu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idkorbu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwari-korbu-777940300)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isha1942)
-
-📍 Shirdhon, Kolhapur, Maharashtra, India
-
-</div>
-
----
-
-<div align="center">
-<sub>Last updated: July 2026</sub>
-</div>

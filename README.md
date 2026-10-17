@@ -92,6 +92,15 @@ A blood donation management app that helps manage donors and blood requests, hos
 A smart parking system that simulates sensors sending parking slot data through an MQTT broker.
 - 🔗 [View project](https://github.com/Isha1942/Smart-parking-system-for-smart-cities)
 
+#### 🤖 Offline GenAI Chatbot
+**Python · PyTorch · Hugging Face Transformers · LLM**
+
+Course project (Generative AI module, IT Roots): a chatbot that runs fully on my own computer using the pre-trained SmolLM2-360M-Instruct model. No API key needed.
+- Remembers recent messages, so follow-up questions work
+- Uses a system prompt so it explains things in simple English
+- Tested it with different questions and tuned the prompt and temperature to reduce made-up answers
+- 🔗 [View project](https://github.com/Isha1942/Offline-GenAI-Chatbot)  
+
 ### 📱 Android Projects
 
 #### 📱 Jayant Patil App

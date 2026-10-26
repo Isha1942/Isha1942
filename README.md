@@ -140,7 +140,7 @@ An app to control and monitor SMS-based (GSM) alarm systems: arm/disarm, manage 
 
 ## 📜 Certifications & Achievements
 
-- ✅ **Data Science Program** — IT Roots Pvt. Ltd., Pune — *Jun 2026 – Dec 2026*
+- ✅ **Data Science Program** — IT Roots Pvt. Ltd., Pune — *July 2026 – Dec 2026*
 - ✅ **Data Analytics Job Simulation** — Deloitte (via Forage) — *October 2026*
 - ✅ **Generative AI Mastermind Workshop** — Outskill — *July 2026*
 - ✅ **Experiential Learning – Full Semester Program** — Score: 95/100 · Certificate Code: `FSP/2025/03/5712509` — *March 2025*

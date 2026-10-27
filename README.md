@@ -1,10 +1,10 @@
 # Hi, I'm Ishwari Korbu 👋
 
-### Data Science & Data Analytics | Python · SQL · Machine Learning · LLMs
+### Python Developer | SQL | Data Science & ML | Android (11 months experience)
 
 I'm a Computer Science Engineering graduate (B.Tech, CGPA 8.2) who has completed a 6-month Data Science program covering SQL, Python, Machine Learning and LLMs. Before this, I worked for 11 months as an Android Developer intern, building real apps for real clients.
 
-**I'm looking for:** Data Analyst · Data Scientist · Junior ML / AI roles (internship or full-time)
+**I'm looking for:** Python Developer · Data Analyst · Junior ML / AI roles (internship or full-time)
 
 [![Email](https://img.shields.io/badge/Email-idkorbu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:idkorbu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishwari%20Korbu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwari-korbu-777940300)
@@ -44,10 +44,10 @@ I'm a Computer Science Engineering graduate (B.Tech, CGPA 8.2) who has completed
 
 ## 💼 Experience
 
-**Data Science Intern** — *IT Roots Pvt. Ltd., Pune* · `Jun 2026 – Dec 2026`
-- Completed the SQL module: database design, queries, joins, and stored procedures
-- Completed the Python module: core Python and data analysis with Pandas and NumPy
-- Completed Machine Learning and LLM / Generative AI modules, along with Statistics and Data Visualization
+**Data Science Program** — *IT Roots Pvt. Ltd., Pune* · `Jun 2026 – Dec 2026 (certificate due Dec 2026)`
+- Learned SQL: database design, queries, joins, and stored procedures
+- Learned Python: core Python and data analysis with Pandas and NumPy
+- Learned Machine Learning and LLM / Generative AI, along with Statistics and Data Visualization
 
 **Android Developer Intern** — *Infoyashonad Technology Pvt. Ltd., Sangli* · `Aug 2025 – Jun 2026 · 11 months`
 - Built and maintained Android apps using Java, Firebase, and XML for real client projects
@@ -140,7 +140,7 @@ An app to control and monitor SMS-based (GSM) alarm systems: arm/disarm, manage 
 
 ## 📜 Certifications & Achievements
 
-- ✅ **Data Science Program** — IT Roots Pvt. Ltd., Pune — *July 2026 – Dec 2026*
+- ✅ **Data Science Program** — IT Roots Pvt. Ltd., Pune — *Jun 2026 – Dec 2026 (certificate due Dec 2026)*
 - ✅ **Data Analytics Job Simulation** — Deloitte (via Forage) — *October 2026*
 - ✅ **Generative AI Mastermind Workshop** — Outskill — *July 2026*
 - ✅ **Experiential Learning – Full Semester Program** — Score: 95/100 · Certificate Code: `FSP/2025/03/5712509` — *March 2025*

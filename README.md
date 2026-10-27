@@ -24,7 +24,6 @@ I'm a Computer Science Engineering graduate (B.Tech, CGPA 8.2) who has completed
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-EC2%20%26%20RDS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs%20%26%20Generative%20AI-8A2BE2?style=flat-square)
 ![Statistics](https://img.shields.io/badge/Statistics-555555?style=flat-square)
 
